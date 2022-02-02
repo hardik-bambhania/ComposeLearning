@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComposeLearning</string>
+    <string name="title_activity_row_column">RowColumnActivity</string>
 </resources>
